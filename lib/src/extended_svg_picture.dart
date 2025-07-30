@@ -166,7 +166,9 @@ class _ExtendedSvgPictureState extends State<ExtendedSvgPicture> {
           height: _height,
           color: Colors.grey[200],
           child: Center(
-            child: _isLoading ? const CircularProgressIndicator(strokeWidth: 2) : const Icon(Icons.broken_image, color: Colors.grey),
+            child: _isLoading
+                ? const CircularProgressIndicator(strokeWidth: 2)
+                : const Icon(Icons.broken_image, color: Colors.grey),
           ),
         );
   }
