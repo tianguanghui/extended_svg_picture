@@ -1,3 +1,8 @@
+## 0.0.8
+
+* Add Example
+
+
 ## 0.0.7
 
 * Translate the ChangeLog to English
