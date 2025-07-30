@@ -5,16 +5,43 @@ import 'package:extended_image/extended_image.dart';
 
 /// 借助ExtendedImage的本地缓存和SvgPicture加载网络的SVG
 class ExtendedSvgPicture extends StatefulWidget {
+  /// the url of svg image
   final String imageUrl;
+
+  /// image width
   final double? width;
+
+  /// image height
   final double? height;
+
+  /// image color
   final Color? color;
+
+  /// the placeholder widget
   final Widget? placeholder;
+
+  /// the errorWidget
   final Widget? errorWidget;
+
+  /// cache or not
   final bool cache;
+
+  /// retry Delay after fail
   final Duration retryDelay;
+
+  /// max retry times
   final int maxRetries;
 
+  /// params [key] key
+  /// params [imageUrl] the url of svg image
+  /// params [width] image width
+  /// params [height] image height
+  /// params [color] image color
+  /// params [placeholder] the placeholder widget
+  /// params [errorWidget] the errorWidget
+  /// params [cache] cache or not
+  /// params [retryDelay] retry Delay after fail
+  /// params [maxRetries] max retry times
   const ExtendedSvgPicture({
     Key? key,
     required this.imageUrl,
