@@ -1,6 +1,6 @@
 name: extended_svg_picture
 description: Load SVG with caching via ExtendedImage. Supports dynamic color, retries, and full customization.
-version: 0.0.5
+version: 0.0.6
 homepage: https://github.com/tianguanghui/extended_svg_picture
 repository: https://github.com/tianguanghui/extended_svg_picture
 
@@ -11,7 +11,7 @@ dependencies:
   extended_image: ^7.0.2
   flutter:
     sdk: flutter
-  flutter_svg: ^2.0.5
+  flutter_svg: ^1.1.6
 
 dev_dependencies:
   flutter_test:
