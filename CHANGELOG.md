@@ -1,3 +1,8 @@
+## 0.0.10
+
+* Correct the version number
+
+
 ## 0.0.9
 
 * Fix Error
