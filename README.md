@@ -1,3 +1,7 @@
+## extended_svg_picture
+
+[![pub package](https://img.shields.io/pub/v/extended_svg_picture.svg)](https://pub.dev/packages/extended_svg_picture)
+
 Show network svg with local file cache future.
 
 ## Features
