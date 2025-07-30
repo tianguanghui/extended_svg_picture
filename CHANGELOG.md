@@ -1,3 +1,8 @@
+## 1.0.0
+
+* Release the first stable version
+
+
 ## 0.0.11
 
 * Correct the version number
