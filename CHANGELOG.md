@@ -1,25 +1,31 @@
+## 0.0.7
+
+* Translate the ChangeLog to English
+
+
 ## 0.0.6
 
-* flutter_svg版本降为1.1.6，基于Dart 2.17.0；
+* The flutter_svg version has been downgraded to 1.1.6, based on Dart 2.17.0;
+
 
 ## 0.0.5
 
-* 添加部分注释；
+* Add some comments;
 
 
 ## 0.0.4
 
-* 更正版本号
+* Correct the version number
 
 
 ## 0.0.3
 
-* 只指定Dart版本，不在指定Flutter版本
+* Only specify the Dart version, not the Flutter version
 
 
 ## 0.0.2
 
-* Flutter版本改为3.0.0，Dart版本改为2.17.0
+* Flutter version is changed to 3.0.0, and Dart version is changed to 2.17.0
 
 
 ## 0.0.1

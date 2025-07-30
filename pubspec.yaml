@@ -1,6 +1,6 @@
 name: extended_svg_picture
 description: Load SVG with caching via ExtendedImage. Supports dynamic color, retries, and full customization.
-version: 0.0.6
+version: 0.0.7
 homepage: https://github.com/tianguanghui/extended_svg_picture
 repository: https://github.com/tianguanghui/extended_svg_picture
 
