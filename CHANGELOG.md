@@ -1,3 +1,8 @@
+## 0.0.2
+
+* Flutter版本改为3.0.0，Dart版本改为2.17.0
+
+
 ## 0.0.1
 
 * Base on ExtendedImage and FlutterSvg, add local file cache future.
